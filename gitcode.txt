@@ -19,3 +19,5 @@ $ git reset --hard HEAD^  //HEAD~100
 $ git reflog //用来记录你的每一次命令
 
 版本库（Repository）
+
+111
