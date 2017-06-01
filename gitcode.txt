@@ -8,4 +8,6 @@ $ git status //查看状态
 
 $ git diff readme.txt  //查看不同
 
-git pull --rebase origin master //代码合并
+git pull --rebase origin master //代码合并 
+
+//english
