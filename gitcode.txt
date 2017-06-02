@@ -61,9 +61,9 @@ create feature1 branch
 
 
 
+$ git log --graph --pretty=oneline --abbrev-commit //查看合并分支情况
 
-
-
+dev branch //
 
 
 
