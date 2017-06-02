@@ -63,11 +63,16 @@ create feature1 branch
 
 $ git log --graph --pretty=oneline --abbrev-commit //查看合并分支情况
 
-dev branch //
+$ git branch -D <name> //强行删除。
 
+$ git stash //可以把当前工作现场“储藏”起来
 
-Git is a free software //修改
+ 
+$ git stash list //Git把stash内容列表
+ 
+$ git stash apply   $ git stash drop //恢复
 
+$ git stash pop    // 恢复的同时把stash内容也删了
 
-
+$ git stash apply stash@{0}
 
